@@ -40,7 +40,7 @@
         <flyway-maven-plugin.version>4.0.2</flyway-maven-plugin.version>
 
         <!-- MySQL Driver -->
-        <mysql-connector-java.version>5.1.39</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
 
         <!-- Java Mail -->
         <javax.mail.version>1.5.6</javax.mail.version>
